@@ -17,11 +17,7 @@
 }
 
 body {
-  color: rgb(var(--foreground-rgb));
-  background: linear-gradient(
-      to bottom,
-      transparent,
-      rgb(var(--background-end-rgb))
-    )
-    rgb(var(--background-start-rgb));
+  letter-spacing: .05rem;
+  background-color: #fcfcfc;
+  color: #3B3D4B;
 }
