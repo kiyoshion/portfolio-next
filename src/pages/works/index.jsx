@@ -1,7 +1,9 @@
+import Layout from "@/components/Layout";
+
 export default function WorkIndex() {
   return (
-    <div>
+    <Layout>
       works.
-    </div>
+    </Layout>
   );
 }
