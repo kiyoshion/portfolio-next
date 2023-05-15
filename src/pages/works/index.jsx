@@ -31,7 +31,6 @@ export default function Works({ works }) {
     >
       <div className='max-w-7xl mx-auto p-4 text-sm flex flex-col'>
         <h1>Works</h1>
-        <p>What I did, What I wanted to.</p>
       </div>
       <div className='max-w-7xl mx-auto p-4 text-sm flex'>
         {works.map((work) => (
